@@ -1,0 +1,1 @@
+Test your math skills with this exciting multiple-choice quiz! When you start the game, you have 60 seconds to answer as many math questions as possible. For each correct answer, you earn 1 point. Your total score will be displayed at the end of the timer. Challenge yourself and see how many points you can score in one minute!
